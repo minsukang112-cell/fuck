@@ -1,5 +1,3 @@
-
-
 class SnakeGame {
     constructor() {
         this.canvas = document.getElementById('gameCanvas');
